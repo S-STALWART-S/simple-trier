@@ -1,12 +1,17 @@
 {
 	"name": "simple-trier",
-	"version": "2.5.0",
+	"author": "s-stalwart-s",
 	"description": "",
+	"license": "MIT"
 	"main": "index.js",
+	"version": "2.5.0",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "MIT"
+	"keywords": [
+		"trier",
+		"simple-trier",
+		"try-catch",
+		"try catch"
+	],
 }
