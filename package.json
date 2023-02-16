@@ -4,7 +4,7 @@
 	"description": "",
 	"license": "MIT",
 	"main": "index.js",
-	"version": "2.5.0",
+	"version": "2.6.0",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
