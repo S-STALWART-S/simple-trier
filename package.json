@@ -2,7 +2,7 @@
 	"name": "simple-trier",
 	"author": "s-stalwart-s",
 	"description": "",
-	"license": "MIT"
+	"license": "MIT",
 	"main": "index.js",
 	"version": "2.5.0",
 	"scripts": {
