@@ -1,12 +1,5 @@
-environments/production.env
-environments/production_local.env
-bin
-.nyc_output
 node_modules
 coverage
 build
 built
 dist
-.dccache
-dump.rdb
-redis-portable
