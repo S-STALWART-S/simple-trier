@@ -4,6 +4,13 @@
   "dictionaryDefinitions": [],
   "dictionaries": [],
   "words": [],
-  "ignoreWords": ["flowtype", "linebreak", "rushstack", "snyk", "sonarjs"],
+  "ignoreWords": [
+    "arrowParens",
+    "flowtype",
+    "linebreak",
+    "rushstack",
+    "snyk",
+    "sonarjs"
+  ],
   "import": []
 }
