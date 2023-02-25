@@ -10,7 +10,8 @@
     "linebreak",
     "rushstack",
     "snyk",
-    "sonarjs"
+    "sonarjs",
+    "tsbuildinfo"
   ],
   "import": []
 }
