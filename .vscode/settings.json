@@ -1,0 +1,23 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "package-lock.json": true,
+    ".gitignore": true,
+    "package.json": true,
+    "node_modules": true,
+    ".vscode": true,
+    "README.md": true,
+    ".prettierrc.json": true,
+    ".eslintignore": true,
+    ".eslintrc.js": true,
+    ".prettierignore": true,
+    "cspell.json": true,
+    "LICENSE.md": true
+  },
+  "explorerExclude.backup": {}
+}
