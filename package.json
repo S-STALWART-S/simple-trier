@@ -4,7 +4,7 @@
   "description": "",
   "license": "MIT",
   "main": "index.js",
-  "version": "2.9.1",
+  "version": "3.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/S-STALWART-S/simple-trier"
@@ -33,10 +33,8 @@
     "confusing-browser-globals": "^1.0.11",
     "eslint": "^8.30.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-chai-friendly": "^0.7.2",
     "eslint-plugin-flowtype": "^8.0.3",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-mocha": "^10.1.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-security": "^1.5.0",
     "eslint-plugin-sonarjs": "^0.17.0",
