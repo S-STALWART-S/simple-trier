@@ -1,4 +1,4 @@
-const { Trier } = require("./index");
+const { Trier } = require("../lib/index.js");
 
 const testResult = "test result";
 const testError = "test error";

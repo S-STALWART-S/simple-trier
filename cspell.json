@@ -11,6 +11,7 @@
     "rushstack",
     "snyk",
     "sonarjs",
+    "trys",
     "tsbuildinfo"
   ],
   "import": []
