@@ -178,7 +178,4 @@ class Trier<T> {
 
 const trier = <T>(callerName: CallerName) => new Trier<T>(callerName);
 
-module.exports = {
-  trier,
-  Trier,
-};
+export { trier, Trier };

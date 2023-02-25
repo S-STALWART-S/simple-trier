@@ -3,13 +3,15 @@
   "author": "s-stalwart-s",
   "description": "",
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "version": "3.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/S-STALWART-S/simple-trier"
   },
   "scripts": {
+    "build": "tsc",
     "check:format": "prettier --write ./",
     "check:lint": "eslint ./",
     "check:lint:default": "eslint 'src/**/*.js'",
@@ -22,6 +24,9 @@
     "simple-trier",
     "try-catch",
     "try catch"
+  ],
+  "files": [
+    "lib/**/*"
   ],
   "devDependencies": {
     "@babel/core": "^7.20.7",
