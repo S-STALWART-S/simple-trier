@@ -15,7 +15,7 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
-    "target": "ES5"
+    "target": "es5"
 
     // "noEmitOnError": true,
     /* Projects */
