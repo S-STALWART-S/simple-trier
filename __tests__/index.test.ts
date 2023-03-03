@@ -1,4 +1,6 @@
-const { Trier } = require("../lib/index.js");
+import { describe, expect } from "@jest/globals";
+
+import { Trier } from "../src/index";
 
 const testResult = "test result";
 const testError = "test error";
